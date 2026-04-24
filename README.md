@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [**Click here to try the Fake News Detector live!**](https://vm-fake-news-detector.streamlit.app/)
+👉 [**Click here to try the Fake News Detector live!**]
 
 
 
